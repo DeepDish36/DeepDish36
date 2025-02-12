@@ -1,5 +1,5 @@
 <h2>Quem sou?</h2>
-Criador da aplicação DarkBox
+<b>Criador da aplicação DarkBox</b><br>
 Criador de soluções digitais, apaixonado por tecnologia e inovação. 🚀<br>
 💻 Trabalho em diversas áreas do desenvolvimento, desde software e aplicações até websites e sistemas personalizados. Se há um desafio, eu aceito.<br>
 🔧 Gosto de aprender, experimentar novas tecnologias e transformar ideias em realidade.<br>
