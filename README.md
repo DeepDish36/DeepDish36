@@ -1,13 +1,12 @@
-<h2>Quem sou?</h2>
-<b>Criador da aplicação DarkBox</b><br>
-Criador de soluções digitais, apaixonado por tecnologia e inovação. 🚀<br>
-💻 Trabalho em diversas áreas do desenvolvimento, desde software e aplicações até websites e sistemas personalizados. Se há um desafio, eu aceito.<br>
-🔧 Gosto de aprender, experimentar novas tecnologias e transformar ideias em realidade.<br>
-📢 Precisas de um projeto? Contacta-me e eu o farei. 💡<br>
-📬 Fala comigo e vamos criar algo incrível juntos.
-
-<h2>Como Contactar?</h2>
-Contacta-me através do meu email: andredeepgomes@gmail.com
+<h2>Who am I?</h2>
+<b>DarkBox Creator</b><br>
+Creator of digital solutions, passionate about technology and innovation. 🚀<br>
+💻 I work in various areas of development, from software and applications to websites and custom systems. If there is a challenge, I accept it.<br>
+🔧 I like learning, trying new technologies and turning ideas into reality.<br>
+📢 Do you need a project? Contact me and I will do it. 💡<br>
+📬 Talk to me and let's create something amazing together.
+<h2>How to Contact?</h2>
+Contact me via my email: andredeepgomes@gmail.com
 
 <!---
 DeepDish36/DeepDish36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
