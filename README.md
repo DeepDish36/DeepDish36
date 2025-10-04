@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student with a deep passion for technology and programming, always eager to explore new tools, languages, and frameworks. I love building things. I'm constantly learning, experimenting, and challenging myself to grow as a developer. Currently diving into web development, and always on the lookout for exciting projects and collaborations.
+I'm an IT Technician with a deep passion for technology and programming, always eager to explore new tools, languages, and frameworks. I love building things. I'm constantly learning, experimenting, and challenging myself to grow as a developer. Currently diving into web development, and always on the lookout for exciting projects and collaborations.
 
 
 ## 🌐 Socials:
