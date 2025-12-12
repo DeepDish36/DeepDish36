@@ -3,9 +3,11 @@ I'm an IT Technician with a deep passion for technology and programming, always 
 
 
 ## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andredeepgomes@gmail.com) 
-
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/DeepDish36)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:andredeepgomes@gmail.com)
+[![devto](https://skillicons.dev/icons?i=devto)](https://dev.to/deepdish36)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-gomes-681976351/)
 # Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,css,dotnet,html,js,mysql,php,py,visualstudio,vscode&perline=6)](https://skillicons.dev)
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeepDish36&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
