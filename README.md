@@ -5,7 +5,7 @@ I love building things. I'm constantly learning, experimenting, and challenging 
 <br>
 Currently diving into game development, and always on the lookout for exciting projects and collaborations.
 <br><br>
-<b>Check my porfolio <a href="https://deepdish36.github.io/">Here</a><br>
+<b>Check my porfolio <a href="https://deepdish36.github.io/">here</a><br>
 
 ## Socials:
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/DeepDish36)
