@@ -12,6 +12,7 @@ Currently diving into game development, and always on the lookout for exciting p
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:andredeepgomes@gmail.com)
 [![devto](https://skillicons.dev/icons?i=devto)](https://dev.to/deepdish36)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-gomes-681976351/)
+[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/29505058/deepdish)
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,css,dotnet,html,js,mysql,php,py,visualstudio,vscode&perline=6)](https://skillicons.dev)
 <!--## Stats:
