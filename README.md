@@ -29,7 +29,7 @@ int main(void) {
     bool alive = true;
 
     while (alive) {
-        printf("Keep Coding!;");
+        printf("Keep Coding!");
     }
 
     return 0;
