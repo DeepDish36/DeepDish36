@@ -3,9 +3,9 @@ I'm an IT Technician with a deep passion for technology and programming, always 
 <br>
 I love building things. I'm constantly learning, experimenting, and challenging myself to grow as a developer. 
 <br>
-Currently diving into game development, and always on the lookout for exciting projects and collaborations.
+Currently studying cybersecurity, diving into game development, and always on the lookout for exciting projects and collaborations.
 <br><br>
-<b>Check my porfolio <a href="https://deepdish36.github.io/">here</a><br>
+<b>Check my portfolio <a href="https://deepdish36.github.io/">here</a><br>
 
 ## Socials:
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/DeepDish36)
