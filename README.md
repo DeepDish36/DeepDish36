@@ -18,7 +18,7 @@ Currently studying cybersecurity, diving into game development, and always on th
 <!--## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeepDish36&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 -->
-#
+<!--#
 <br>
 
 ```C
@@ -36,3 +36,4 @@ int main(void) {
 }
 
 ```
+-->
