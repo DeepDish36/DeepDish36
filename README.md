@@ -14,26 +14,8 @@ Currently studying cybersecurity, diving into game development, and always on th
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-gomes-681976351/)
 [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/29505058/deepdish)
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,css,dotnet,html,js,mysql,php,py,visualstudio,vscode&perline=6)](https://skillicons.dev)
-<!--## Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeepDish36&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
--->
-<!--#
-<br>
+### Development
+[![Development](https://skillicons.dev/icons?i=c,cs,py,js,php,html,css,bootstrap,dotnet,mysql,godot&perline=6)](https://skillicons.dev)
+### Tools
 
-```C
-#include <stdio.h>
-#include <stdbool.h>
-
-int main(void) {
-    bool alive = true;
-
-    while (alive) {
-        printf("Keep Coding!");
-    }
-
-    return 0;
-}
-
-```
--->
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,kali&perline=6)](https://skillicons.dev)
