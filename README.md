@@ -18,4 +18,9 @@ Currently studying cybersecurity, diving into game development, and always on th
 [![Development](https://skillicons.dev/icons?i=c,cs,py,js,php,html,css,bootstrap,dotnet,mysql,godot&perline=6)](https://skillicons.dev)
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,kali&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,kali,git&perline=6)](https://skillicons.dev)
+
+---
+<div align="center">
+  DeepDish36
+</div>
