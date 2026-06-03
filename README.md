@@ -22,5 +22,5 @@ Currently studying cybersecurity, diving into game development, and always on th
 
 ---
 <div align="center">
-  DeepDish36
+  <h3>DeepDish36</h3>
 </div>
