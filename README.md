@@ -1,9 +1,7 @@
 # About Me:
-I'm an IT Technician with a deep passion for technology and programming, always eager to explore new tools and languages. 
-<br>
-I love building things. I'm constantly learning, experimenting, and challenging myself to grow as a developer. 
-<br>
-Currently studying cybersecurity, diving into game development, and always on the lookout for exciting projects and collaborations.
+I'm an IT Technician passionate about technology, software development, and cybersecurity.<br>
+I enjoy building projects, learning new technologies, and continuously improving my technical skills.<br>
+Currently focused on cybersecurity studies and game development, while actively seeking opportunities to collaborate on exciting projects and open-source initiatives.
 <br><br>
 <b>Check my portfolio <a href="https://deepdish36.github.io/">here</a><br>
 
