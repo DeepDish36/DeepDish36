@@ -6,7 +6,7 @@ Currently building personal projects and expanding my skills across different ar
 
 <br>
 
-<b>Check out my portfolio:</b> <a href="https://deepdish.is-a.dev">deepdish.is-a.dev</a>
+<b>Check out my portfolio:</b> <a href="https://deepdish.is-a.dev">Here</a>
 
 ## Socials:
 [![discord](https://skillicons.dev/icons?i=discord)](https://deepdish36.is-a.dev/#contact)
