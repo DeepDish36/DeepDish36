@@ -1,12 +1,15 @@
 # About Me:
-I'm an IT Technician passionate about technology, software development, and cybersecurity.<br>
-I enjoy building projects, learning new technologies, and continuously improving my technical skills.<br>
-Currently focused on cybersecurity studies and game development, while actively seeking opportunities to collaborate on exciting projects and open-source initiatives.
-<br><br>
-<b>Check my portfolio <a href="https://deepdish36.github.io/">here</a><br>
+I'm an IT Technician with a passion for software development, cybersecurity, and technology.<br>
+I enjoy building projects, exploring new technologies, and learning through hands-on experience.<br>
+My main interests include software development, cybersecurity, computer hardware, and game development.<br>
+Currently building personal projects and expanding my skills across different areas of IT.
+
+<br>
+
+<b>Check out my portfolio:</b> <a href="https://deepdish.is-a.dev">deepdish.is-a.dev</a>
 
 ## Socials:
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/DeepDish36)
+[![discord](https://skillicons.dev/icons?i=discord)](https://deepdish36.is-a.dev/#contact)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:andredeepgomes@gmail.com)
 [![devto](https://skillicons.dev/icons?i=devto)](https://dev.to/deepdish36)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-gomes-681976351/)
@@ -16,7 +19,7 @@ Currently focused on cybersecurity studies and game development, while actively 
 [![Development](https://skillicons.dev/icons?i=c,cs,py,js,php,html,css,bootstrap,dotnet,mysql,godot&perline=6)](https://skillicons.dev)
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,kali,git&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,kali&perline=6)](https://skillicons.dev)
 
 ---
 <div align="center">
